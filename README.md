@@ -62,8 +62,7 @@ health-insurance-price-prediction/
 **Jithesh J Poojary**
 
 * **GitHub:** https://github.com/jitheshpoojary
-* **LinkedIn:** https://www.linkedin.com/in/jeethesh-j-poojary/
-
+* **LinkedIn:** https://www.linkedin.com/in/jeethesh-j-poojary-b6bab42ba?utm_source=share_via&utm_content=profile&utm_medium=member_android
 ---
 
 ⭐ Feel free to explore the application and try different inputs using the live demo.
