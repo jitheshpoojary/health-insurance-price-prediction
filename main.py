@@ -1,5 +1,4 @@
 import streamlit as st
-
 from prediction_helper import predict, calculate_normalized_risk
 
 st.set_page_config(
